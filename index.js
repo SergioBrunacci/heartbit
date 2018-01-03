@@ -5,7 +5,7 @@ const mongoose = require('mongoose')
 const nconf = require('./nconf')
 const bodyParser = require('body-parser')
 
-mongoose.connect(nconf.get('MONGOHQ_URI'))
+mongoose.connect(nconf.get('MONGOHQ_URL'))
 
 app
     .use(morganLogger('dev'))
