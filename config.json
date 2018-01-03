@@ -1,5 +1,5 @@
 {
-    "MONGOHQ_URL": "mongodb://heartbit:heartbit01@ds135777.mlab.com:35777/heroku_tb81bs2k",
+    "MONGOHQ_URL": "mongodb://heroku_tb81bs2k:ps1lvrjqvjhadlkn70upti51ph@ds135777.mlab.com:35777/heroku_tb81bs2k",
     "REDISCLOUD_URL": null,
     "PAGE_SIZE": 20,
     "PASSWORD_SALT": "/CrA+AerPAaVE3ShtGLEhl0I3gJNJWQvEAUjwnRSjAEmkeXLM3NUYYPXY4HuYDM1bCk=",
